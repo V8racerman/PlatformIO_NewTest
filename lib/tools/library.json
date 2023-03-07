@@ -1,0 +1,7 @@
+{ "name":"General Tools",
+"version":"1.0.0",
+"description":"General Toolset",
+"keywords":["ADC", "voltage"],
+"frameworks":"arduino",
+"platforms" :"espressif8266"
+}
